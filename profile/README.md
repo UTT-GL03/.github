@@ -1,4 +1,4 @@
-# Qui sommes-nous ?
+# À propos
 
 Vous trouverez dans les entrepôts de cette "organisation" les projets des élèves ingénieur(e)s de l'Université de technologie de Troyes inscrits dans l'unité d'enseignement "Réduire l'impact environemental des services numériques" (GL03).
 
