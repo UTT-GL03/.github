@@ -23,5 +23,5 @@ Les prototypes réalisés n'ont pas vocation à être utilisés tels quels ni à
 | 03/12/24 | Idem | Idem |
 | 10/12/24 | Idem | Idem |
 | 17/12/24 | Idem | Idem |
-| VACANCES | Idem | Idem |
+| VACANCES |
 | 07/01/25 | README : Retrospective sur le résultat, le processus et les enseignements à en tirer. | 
