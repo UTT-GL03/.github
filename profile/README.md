@@ -16,12 +16,12 @@ Les prototypes réalisés n'ont pas vocation à être utilisés tels quels ni à
 | 15/10/24 | <ul><li>CODE : Prototype des fonctionnalités prioritaires avec flux statiques (nombre de requêtes en O(1), taille infèrieure ou égale à O(n)</li><li>README : mesure de l'impact estimé minimum de chaque fonctionnalité</li></ul> | <ul><li>React</li><li>EcoIndex</li></ul> | 
 | VACANCES |
 | 29/10/24 | <ul><li>TESTS : Scénarios automatisés pour chaque fonctionnalité prioritaire</li><li>README : Comparaison de l'impact estimé et mesuré</li> | <ul><li>Puppeteer</li><li>GreenFrame</li>|
-| 05/11/24 |
-| 12/11/24 |
-| 19/11/24 |
-| 26/11/24 |
-| 03/12/24 |
-| 10/12/24 |
-| 17/12/24 |
-| VACANCES |
-| 07/01/25 |
+| 05/11/24 | <ul><li>SAMPLES : Données atomiques</li><li>CODE: Vues pour le backend ; frontend mis à jour</li></ul> | <ul><li>CouchDB+Docker</li><li>React</li> |
+| 12/11/24 | PROCESS: Mises en conteneurs d'une version de production ; README: Impact mesuré de chaque couche de la pile | <ul><li>Docker+DockerCompose</li><li>GreenFrame.io</li></ul>
+| 19/11/24 | PROCESS: Intégration continue (construction et tests) | <ul><li>GitHub actions</li><li>GreenFrame</li></ul>
+| 26/11/24 | <ul><li>CODE : Fonctionnalité nécessaire supplémentaire</li><li>TESTS : Scénario automatisé</li></ul> | <ul><li>React</li><li>CouchDB</li><li>Puppetteer</li><li>GreenFrame.io</li></ul> |
+| 03/12/24 | Idem | Idem |
+| 10/12/24 | Idem | Idem |
+| 17/12/24 | Idem | Idem |
+| VACANCES | Idem | Idem |
+| 07/01/25 | README : Retrospective sur le résultat, le processus et les enseignements à en tirer. | 
