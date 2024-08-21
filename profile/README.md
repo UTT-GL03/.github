@@ -7,15 +7,15 @@ Tout au long du semestre, ils essaient de prototyper un service équivalent au s
 
 Les prototypes réalisés n'ont pas vocation à être utilisés tels quels ni à remplacer les services existants mais, si vous êtes responsable d'un de ces services et que vous souhaitez vous inspirer de la méthode suivie et/ou des choix de conception réalisés, merci de nous en informer, nous serons heureux d'avoir contribué à un Web plus responsable.
 
-| Séance   | Livrable | Outils | Critères | Acquis d'apprentissage |
-| -------- | -------- | ------ | -------- | ---------------------- |
-| 17/09/24 | 
-| 24/09/24 |
-| 01/10/24 |
-| 08/10/24 |
-| 15/10/24 |
+| Séance   | Livrable | Outils | Acquis d'apprentissage |
+| -------- | -------- | ------ | ---------------------- |
+| 17/09/24 | README : Applications Web utilisées quotidiennement (avec impact estimé) | EcoIndex |
+| 24/09/24 | README : Application et fonctionnalités retenues (avec argumentation et impact estimé) | EcoIndex |
+| 01/10/24 | README : Storyboard avec données réalistes (et comparaison de l'impact estimé des alternatives) | EcoIndex |
+| 08/10/24 | CODE : Prototype des fonctionnalités prioritaires avec données dans le code ; README : mesure de l'impact résiduel estimé | <ul><li>React+Vite</li><li>EcoIndex</li></ul> | 
+| 15/10/24 | CODE : Prototype des fonctionnalités prioritaires avec flux statiques (nombre de requêtes en O(1); taille infèrieure ou égale à O(n) ; README : mesure de l'impact estimé minimum de chaque fonctionnalité.
 | VACANCES |
-| 29/10/24 |
+| 29/10/24 | TESTS : Scénarios automatisés pour chaque fonctionnalité prioritaire ; README : Comparaison de l'impact estimé et mesuré | Puppeteer ; GreenFrame|
 | 05/11/24 |
 | 12/11/24 |
 | 19/11/24 |
