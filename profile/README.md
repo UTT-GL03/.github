@@ -9,8 +9,8 @@ Les prototypes réalisés n'ont pas vocation à être utilisés tels quels ni à
 
 | Séance   | Livrables | Outils | Topo ou tuto | Acquis d'apprentissage à valider |
 | -------- | -------- | ------ | ------------ | ---------------------- |
-| 17/09/24 | <ul><li>README : Applications Web utilisées quotidiennement (avec impact estimé)</li></ul> | <ul><li>EcoIndex</li></ul> | <ul><li>Impacts du numérique (enjeux, mesures, capacité d'action)</li><li>Tuto EcoIndex</li></ul> |
-| 24/09/24 | <ul><li>README : Application et fonctionnalités retenues (avec argumentation et impact estimé)</li></ul> | <ul><li>EcoIndex</li></ul> | <ul><li>Impact vs utilité sociale</li></ul> | ![](https://steatite.utt.fr/picture/66b19e459dfa6431e1e533203010184a85b15801) |
+| 17/09/24 | <ul><li>README : Applications Web utilisées quotidiennement (avec impact estimé)</li></ul> |  | <ul><li>Impacts du numérique (enjeux, mesures, capacité d'action)</li></ul> |
+| 24/09/24 | <ul><li>README : Application et fonctionnalités retenues (avec argumentation et impact estimé)</li></ul> | <ul><li>EcoIndex</li></ul> | <ul><li>Tuto EcoIndex</li><li>Impact vs utilité sociale</li></ul> | ![](https://steatite.utt.fr/picture/66b19e459dfa6431e1e533203010184a85b15801) |
 | FORUM ENTREPRISES |
 | 08/10/24 | <ul><li>README : Storyboard avec données réalistes (et comparaison pour chaque fonctionnalité de l'impact estimé des alternatives)</li></ul> | <ul><li>EcoIndex</li></ul> | <ul><li>Tuto sur un exemple ("lire la presse quotidienne")</li></ul> | ![](https://steatite.utt.fr/picture/06783bf0bce1aae94f6f348385b2cf669fd184a5)
 | 15/10/24 | <ul><li>CODE : Prototype des fonctionnalités prioritaires avec données dans le code</li><li> README : mesure de l'impact résiduel estimé | <ul><li>React+Vite</li><li>EcoIndex</li></ul> | <ul><li>Tuto avec React+Vite (composants, états et propriétés, transpilation)</li></ul> | 
