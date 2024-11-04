@@ -21,7 +21,7 @@ Les prototypes réalisés n'ont pas vocation à être utilisés tels quels ni à
 | 19/11/24 | <ul><li>SAMPLES : Données atomiques</li><li>CODE: Vues pour le backend ; frontend mis à jour</li></ul> | <ul><li>CouchDB+Docker</li><li>React</li></ul> | <ul><li>Tuto (avec découpage en documents et implémentation de vues CouchDB)</li></ul> | ![](https://steatite.utt.fr/picture/ebcda96b8ae6811ed4b06ad10695073ef4441469) |
 | 26/11/24 | <ul><li>PROCESS: Mises en conteneurs d'une version de production</li><li>README: Impact mesuré de chaque couche de la pile</li></ul> | <ul><li>Docker+DockerCompose</li><li>GreenFrame.io</li></ul> | <ul><li>Tuto (Dockerfile, DockerCompose, GreenFrame.io)</ul></li> | 
 | 03/12/24| <ul><li>PROCESS: Intégration continue (construction et tests)</li></ul> | <ul><li>GitHub actions</li><li>GreenFrame</li></ul> | <ul><li>Tuto (GitHub actions et GreenFrame.io)</li></ul> | ![](https://steatite.utt.fr/picture/c369039d198f5776e0e2087d1f9d12ee2d48dad4) |
-| 10/12/24 | <ul><li>CODE : Fonctionnalité nécessaire supplémentaire</li><li>TESTS : Scénario automatisé</li></ul> | <ul><li>React</li><li>CouchDB</li><li>Puppetteer</li><li>GreenFrame.io</li></ul> | | 
+| 10/12/24 | <ul><li>CODE : Fonctionnalité nécessaire supplémentaire</li><li>TESTS : Scénario automatisé</li></ul> | <ul><li>React</li><li>CouchDB</li><li>Playwright</li><li>GreenFrame.io</li></ul> | | 
 | 17/12/24 | Idem | Idem | | ![](https://steatite.utt.fr/picture/48eb631dd8fd317ae2b3d0c10719f88cc8356bb7) |
 | VACANCES |
 | 07/01/25 | <ul><li>README : Retrospective sur le résultat, le processus et les enseignements à en tirer.</li></ul> | 
