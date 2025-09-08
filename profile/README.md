@@ -9,19 +9,19 @@ Les prototypes réalisés n'ont pas vocation à être utilisés tels quels ni à
 
 | Séance   | Livrables | Outils | Topo ou tuto | Acquis d'apprentissage à valider |
 | -------- | -------- | ------ | ------------ | ---------------------- |
-| 17/09/24 |  |  | <ul><li>Impacts du numérique (enjeux, mesures, capacité d'action)</li></ul> |
-| 24/09/24 | <ul><li>README : Choix du sujet, Utilité sociale, Impact de la numérisation</li></ul> | | <ul><li>Utilité, Usages</li><li>Substitution, effet rebond</li><li>Démocratie technique</li></ul> | ![](https://steatite.utt.fr/picture/66b19e459dfa6431e1e533203010184a85b15801) |
-| FORUM ENTREPRISES |
-| 08/10/24 | <ul><li>TEST : Scénarios d'utilisation et impacts chez différents concurrents</li><li>README : Conception des tests.</li></ul> | <ul><li>EcoIndex</li><li>Puppeteer (simplifié)</li></ul> | <ul><li>Tuto EcoIndex sur un exemple ("lire la presse quotidienne")</li></ul> | ![](https://steatite.utt.fr/picture/06783bf0bce1aae94f6f348385b2cf669fd184a5)
-| 15/10/24 | <ul><li> README : Échantillon de données et maquette.</li></ul> | <ul><li>React+Vite</li></ul> | <ul><li>Tuto avec React+Vite (composants, états et propriétés)</li></ul> | 
+| 15/09/25 |  |  | <ul><li>Impacts du numérique (enjeux, mesures, capacité d'action)</li></ul> |
+| 22/09/25 | <ul><li>README : Choix du sujet, Utilité sociale, Impact de la numérisation</li></ul> | | <ul><li>Utilité, Usages</li><li>Substitution, effet rebond</li><li>Démocratie technique</li></ul> | ![](https://steatite.utt.fr/picture/66b19e459dfa6431e1e533203010184a85b15801) |
+| 29/09/25 | <ul><li>TEST : Scénarios d'utilisation et impacts chez différents concurrents</li><li>README : Conception des tests.</li></ul> | <ul><li>EcoIndex</li></ul> | <ul><li>Tuto EcoIndex sur un exemple ("lire la presse quotidienne")</li></ul> | ![](https://steatite.utt.fr/picture/06783bf0bce1aae94f6f348385b2cf669fd184a5)
+| 06/10/25 | <ul><li> README : Modèle d'affaire (simplifié).</li></ul> | | <ul><li>Quelles alternatives à la publicité ?</li></ul> | 
+| 13/10/25 | <ul><li> README : Structure et maquette de l'application, échantillon de données.</li></ul> | <ul><li>DummyJSON</li></ul> | <ul><li>Ressources et URI</li> | Concevoir |
+| 20/10/25 | <ul><li>CODE : Prototype (v1.0.0) des fonctionnalités prioritaires avec données dans le code</li><li> README : mesure de l'impact résiduel estimé</li></ul> | <ul><li>React+Vite</li><li>EcoIndex</li></ul> | <ul><li>Tuto avec React+Vite (composants, états et propriétés)</li><li>Tuto avec React+Vite (minification)</li></ul> | 
 | VACANCES |
-| 29/10/24 | <ul><li>CODE : Prototype des fonctionnalités prioritaires avec données dans le code</li><li> README : mesure de l'impact résiduel estimé | <ul><li>React+Vite</li><li>EcoIndex</li></ul> | <ul><li>Tuto avec React+Vite (minification)</li></ul> | 
-| 05/11/24 | <ul><li>CODE : Prototype des fonctionnalités prioritaires avec chargement dynamique de données statiques</li><li>README : mesure de l'impact estimé minimum de chaque fonctionnalité</li></ul> | <ul><li>React</li><li>EcoIndex</li></ul> | <ul><li>Tuto (avec fetch et useEffect)</li></ul> |
-| 12/11/24 | <ul><li>PROCESS : Hébergement du site statique dans un conteneur, mesures d'impact en intégration continue.</li><li>DOC: Impacts comparés des services existants, du prototype sur le client et sur le serveur</li></ul> | <li>GreenFrame</li><li>Docker</li><li>GitHub Actions</li> | <ul><li>Tuto GreenFrame + GitHub Actions + Docker compose</li><li>Topo : Qu'est-ce qui consomme de l'énergie dans un logiciel ?</li></ul>
-| 19/11/24 | <ul><li>SAMPLES : Données atomiques</li><li>CODE: Vues pour le backend ; frontend mis à jour</li></ul> | <ul><li>CouchDB+Docker</li><li>React</li></ul> | <ul><li>Tuto (avec découpage en documents et implémentation de vues CouchDB)</li></ul> | ![](https://steatite.utt.fr/picture/ebcda96b8ae6811ed4b06ad10695073ef4441469) |
-| 26/11/24 | <ul><li>PROCESS: Mises en conteneurs d'une version de production</li><li>README: Impact mesuré de chaque couche de la pile</li></ul> | <ul><li>Docker+DockerCompose</li><li>GreenFrame.io</li></ul> | <ul><li>Tuto (Dockerfile, DockerCompose, GreenFrame.io)</ul></li> | 
-| 03/12/24| <ul><li>PROCESS: Intégration continue (construction et tests)</li></ul> | <ul><li>GitHub actions</li><li>GreenFrame</li></ul> | <ul><li>Tuto (GitHub actions et GreenFrame.io)</li></ul> | ![](https://steatite.utt.fr/picture/c369039d198f5776e0e2087d1f9d12ee2d48dad4) |
-| 10/12/24 | <ul><li>CODE : Fonctionnalité nécessaire supplémentaire</li><li>TESTS : Scénario automatisé</li></ul> | <ul><li>React</li><li>CouchDB</li><li>Playwright</li><li>GreenFrame.io</li></ul> | | 
-| 17/12/24 | Idem | Idem | | ![](https://steatite.utt.fr/picture/48eb631dd8fd317ae2b3d0c10719f88cc8356bb7) |
+| 03/11/25 | <ul><li>CODE : Prototype (v1.0.1) des fonctionnalités prioritaires avec chargement dynamique de données statiques</li><li>README : mesure de l'impact estimé minimum de chaque fonctionnalité</li></ul> | <ul><li>React</li><li>EcoIndex</li></ul> | <ul><li>Tuto (avec fetch et useEffect)</li></ul> | ![](https://steatite.utt.fr/picture/ebcda96b8ae6811ed4b06ad10695073ef4441469) |
+| 10/11/25 | <ul><li>PROCESS : Hébergement du site statique dans un conteneur, mesures d'impact en intégration continue.</li><li>DOC: Impacts comparés des services existants, du prototype sur le client et sur le serveur</li></ul> | <li>GreenFrame</li><li>Docker</li><li>GitHub Actions</li> | <ul><li>Tuto GreenFrame.io + GitHub Actions + Docker compose</li></ul>
+| 17/11/25 | <ul><li>SAMPLES : Données atomiques</li><li>PROCESS & CODE : Full stack (v1.0.2) puis `limit` (v1.0.3)</li><li>DOC: Montée en charge</li></ul> | <li>GreenFrame</li><li>Docker</li><li>GitHub Actions</li> | <li>Topo : Qu'est-ce qui consomme de l'énergie dans un logiciel ?</li></ul> | ![](https://steatite.utt.fr/picture/c369039d198f5776e0e2087d1f9d12ee2d48dad4)
+| 24/11/25 | <ul><li>CODE: Voir les éléments suivants (v1.1.0)</li></ul> | <ul><li>CouchDB+Docker</li><li>React</li></ul> | 
+| MICRO-FORMATIONS |
+| 08/12/25| <ul><li>CODE: Filtrer les éléments (v1.2.0)</li></ul> | <ul><li>CouchDB</ul> | <ul><li>Tuto Mango queries</li></ul> | 
+| 10/12/25 | <ul><li>CODE : Fonctionnalité nécessaire supplémentaire (v1.3.0)</li><li>TESTS : Scénario automatisé</li><li>README : Fonctionnalité supplémentaire</li></ul> | <ul><li>React</li><li>CouchDB</li><li>GreenFrame.io</li></ul> | ![](https://steatite.utt.fr/picture/48eb631dd8fd317ae2b3d0c10719f88cc8356bb7) | 
 | VACANCES |
-| 07/01/25 | <ul><li>README : Retrospective sur le résultat, le processus et les enseignements à en tirer.</li></ul> | 
+| 05/01/26 | <ul><li>README : Retrospective sur le résultat, le processus et les enseignements à en tirer.</li></ul> | 
